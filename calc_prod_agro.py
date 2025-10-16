@@ -1,4 +1,11 @@
+
+# REFERENCIAS
 # https://multitecnica.com.br/perdas-na-colheita-o-que-voce-pode-fazer-para-reduzi-las-3/
+# https://agroemfoco.com/como-o-clima-afeta-a-producao-agricola-entenda-os-principais-impactos-e-como-se-adaptar#google_vignette
+# https://www.atermaisdigital.cnptia.embrapa.br/web/mudancas-climaticas/impactos-na-agropecuaria 
+# https://solocria.com.br/solocria-responde/como-o-excesso-de-chuvas-afeta-a-produtividade-agricola/
+
+
 import requests
 import pandas as pd
 from datetime import datetime
